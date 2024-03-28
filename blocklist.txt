@@ -1,0 +1,9 @@
+! Title: ph00lt0 - Blocklist
+! Expires: 1 day
+! Issue tracker: https://github.com/am4rtinez/blocklists
+! Homepage: https://github.com/am4rtinez/blocklists
+! Description: Blocklist anything that Adguard not blocks by default. Tested with https://d3ward.github.io/toolz/adblock.html.
+! Version: 20240329
+
+|advice-ads.s3.amazonaws.com
+|advertising-api-eu.amazon.com

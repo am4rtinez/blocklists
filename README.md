@@ -1,3 +1,3 @@
-# Blocklists For Pi-Hole
+# Blocklists for Pi-Hole and Adguard.
 
-This is an open project to maintain a list of domain names that serve YouTube and other ads for [Pi-hole](https://pi-hole.net/) blocklist.
+This is an open project to maintain lists to blocklists for Pi-hole and Adguard.
