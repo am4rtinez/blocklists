@@ -8,9 +8,10 @@
 |advice-ads.s3.amazonaws.com
 |advertising-api-eu.amazon.com
 |click.googleanalytics.com
+|adtech.yahooinc.com
+|advertising.apple.com
+|realtime.luckyorange.com
+|app.getsentry.com
 |api.bugsnag.com
 |app.bugsnag.com
 |browser.sentry-cdn.com
-|app.getsentry.com
-|adtech.yahooinc.com
-|advertising.apple.com
