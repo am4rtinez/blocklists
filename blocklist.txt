@@ -17,3 +17,6 @@
 |browser.sentry-cdn.com
 |claritybt.freshmarketer.com
 |fwtracks.freshmarketer.com
+
+! Google videos regexp
+/^rr\d+---sn-[a-z0-9]+\.googlevideo.*^$important
